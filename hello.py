@@ -1,6 +1,6 @@
 def count():
 	print("Counting start")
-	for i in range(10):
+	for i in range(15):
 		print(i)
 	print("Counting finished")
 
